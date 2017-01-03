@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 58
+.settings
+.settings/*
+target
+target/*
+.classpath
+.project
+
+END
